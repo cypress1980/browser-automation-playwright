@@ -6,6 +6,7 @@ This repository demonstrates how to automate browser interactions using [Microso
 
 ## 🛠️ Setup Instructions
 
+### 1. Clone the Repo
 
 ```bash
 git clone https://github.com/cypress1980/LT_Browser_Automate.git
@@ -13,14 +14,9 @@ cd LT_Browser_Automate
 
 
 
-
-
-### 1. Install Dependencies
-
 ### 2. 🛠️ Install Dependencies
-```bash
 npm install
 
-### 2. 🛠️ Run Tests Locally
-```bash
+### 3. 🛠️ Run Tests Locally
+
 npx playwright test
