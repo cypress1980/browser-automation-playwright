@@ -6,9 +6,9 @@ This repository demonstrates how to automate browser interactions using [Microso
 
 ## 🛠️ Setup Instructions
 
-### 1. Clone the Repo
 
 ```bash
+
 git clone https://github.com/cypress1980/LT_Browser_Automate.git
 cd LT_Browser_Automate
 
