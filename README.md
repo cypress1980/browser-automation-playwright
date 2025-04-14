@@ -1,4 +1,4 @@
-# 🎭 Playwright Automation with JavaScript for LT Browser
+# 🎭 Playwright Automation with JavaScript : How to Work With Browsers in Playwright?
 
 This repository demonstrates how to automate browser interactions using [Microsoft Playwright](https://playwright.dev/) with JavaScript.
 
