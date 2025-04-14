@@ -14,6 +14,8 @@ cd LT_Browser_Automate
 
 
 
+
+### 1. Install Dependencies
 ### 2. 🛠️ Install Dependencies
 ```bash
 npm install
