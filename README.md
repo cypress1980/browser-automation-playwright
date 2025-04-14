@@ -20,6 +20,6 @@ cd tests
 npm install
 
 ### 3. 🛠️ Run Tests Locally
-**NOTE**: Make sure you are in trsts folder 
+**NOTE**: Make sure you are in **tests** folder 
 
 npx playwright test
