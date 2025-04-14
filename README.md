@@ -1,6 +1,6 @@
 # 🎭 Playwright Automation with JavaScript for LT Browser
 
-This repository demonstrates how to automate browser interactions using [Microsoft Playwright](https://playwright.dev/) with JavaScript, specifically targeting the [LT Browser](https://www.lambdatest.com/lt-browser) environment. It also integrates GitHub Actions for continuous test execution.
+This repository demonstrates how to automate browser interactions using [Microsoft Playwright](https://playwright.dev/) with JavaScript.
 
 ---
 
