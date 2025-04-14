@@ -61,7 +61,7 @@ const capabilities = [
      build: "Playwright Sample Build",
      name: "Playwright Schedule KaneAI Demo functionality on MacOS Big sur - Chrome",
      user: "kailashpathak",
-     accessKey: "7aVuffQRbXRFUHrYbLhjSvBUiz3ctCih23e42NrDQxnDWErzD1",
+     accessKey: "xxxxxx",
      network: true,
      video: true,
      console: true,
