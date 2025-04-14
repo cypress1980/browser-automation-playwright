@@ -14,6 +14,24 @@ cd LT_Browser_Automate
 
 
 
+## 🛠️ Setup Instructions
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/cypress1980/LT_Browser_Automate.git
+cd LT_Browser_Automate
+
+
+
+
+## 🛠️ Setup Instructions
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/cypress1980/LT_Browser_Automate.git
+cd LT_Browser_Automate
 
 ### 1. Install Dependencies
 ### 2. 🛠️ Install Dependencies
