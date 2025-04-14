@@ -14,16 +14,10 @@ cd LT_Browser_Automate
 
 
 
+### 2. 🛠️ Install Dependencies
+```bash
+npm install
 
-
-## 🚀 Features
-
-- ✅ End-to-end automation using Playwright
-- 🌐 Cross-browser/device simulation targeting LT Browser
-- ⚙️ GitHub Actions for CI
-- 📸 Screenshots & trace collection for debugging
-
----
-
-## 📂 Project Structure
-
+### 2. 🛠️ Run Tests Locally
+```bash
+npx playwright test
