@@ -4,6 +4,18 @@ This repository demonstrates how to automate browser interactions using [Microso
 
 ---
 
+## 🛠️ Setup Instructions
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/cypress1980/LT_Browser_Automate.git
+cd LT_Browser_Automate
+
+
+
+
+
 ## 🚀 Features
 
 - ✅ End-to-end automation using Playwright
