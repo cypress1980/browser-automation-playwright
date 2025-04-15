@@ -21,7 +21,7 @@ npm install
 
 
 ### 3. 🛠️ Run Tests Locally
-`Navigate to the tests folder cd tests`
+### Navigate to the tests folder cd tests`
 `Open the testcase folder: cd testcase`
 Finally, run the following command:
 node lambdatestPlaywright.js
