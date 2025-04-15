@@ -1,5 +1,5 @@
 // @ts-check
-const { test, expect } = require("@playwright/test");
+import { test, expect } from '@playwright/test';
 test('Schedule a demo form automation', async ({ page }) => {
    await page.goto('https://www.lambdatest.com/kane-ai');
    await page.locator('section', { hasText: 'KaneAI - GenAI-Native Testing' }).getByRole('button', { name: 'Book a Demo' }).click();
