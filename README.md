@@ -19,7 +19,8 @@ cd tests
 ### 2. 🛠️ Install Dependencies
 npm install
 
-### 3. 🛠️ Run Tests Locally
-**NOTE**: Make sure you are in **tests** folder 
 
-npx playwright test
+### 3. 🛠️ Run Tests Locally
+Step 1:  Navigate to the tests folder cd tests`
+Step 2: Open the testcase folder: cd testcase`
+Step 3: Finally, run the command: node lambdatestPlaywright.js
