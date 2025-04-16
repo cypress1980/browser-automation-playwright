@@ -32,8 +32,3 @@ node lambdatestPlaywright.js              # Run the test file
 ## 📸 Execution Snapshots from LambdaTest Dashboard
 
 ![LambdaTest Execution Snapshot](https://github.com/user-attachments/assets/af772917-d2cf-41f9-8d81-5d9db5c451b4.png)
-![image](https://github.com/user-attachments/assets/af772917-d2cf-41f9-8d81-5d9db5c451b4)
-
-
-
-
