@@ -25,4 +25,6 @@ Step 4: Finally, run the command: node lambdatestPlaywright.js
 
 ## 🛠️ Execution  snapshots from LambdaTest dashboard
 
+![Alt text](images/example.png)
+
 ![Image](https://github.com/user-attachments/assets/a27a9436-4020-4983-abec-fc6b489842b1)
