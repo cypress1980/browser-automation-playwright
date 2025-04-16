@@ -1,4 +1,4 @@
-# 🎭 Playwright Automation with JavaScript : How to Work With Browsers in Playwright?
+<img width="1781" alt="LT" src="https://github.com/user-attachments/assets/b840eac1-a8e9-4b15-88ff-045c45253518" /># 🎭 Playwright Automation with JavaScript : How to Work With Browsers in Playwright?
 
 This repository demonstrates how to automate browser interactions using [Microsoft Playwright]((https://www.lambdatest.com/playwright) with JavaScript.
 
@@ -27,4 +27,5 @@ Step 4: Finally, run the command: node lambdatestPlaywright.js
 
 ## 🛠️ Execution  snapshots from LambdaTest dashboard
 
-<img width="1781" alt="LT" src="https://github.com/user-attachments/assets/ed4d540e-4c0f-468d-8e18-dc0ce3ccade2" />
+![Alt text](Uploading LT.png)
+
