@@ -1,16 +1,16 @@
-🎭 Playwright Automation with JavaScript : How to Work With Browsers in Playwright?
+# 🎭 Playwright Automation with JavaScript  
+### How to Work With Browsers in Playwright?
 
-This repository demonstrates how to automate browser interactions using [Microsoft Playwright]((https://www.lambdatest.com/playwright) with JavaScript.
+This repository demonstrates how to automate browser interactions using [Microsoft Playwright](https://www.lambdatest.com/playwright) with JavaScript.
 
 ---
 
 ## 🛠️ Setup Instructions
 
+### 1. Clone the Repository
 
 ```bash
-### 1. 🛠️ Clone the repo
 git clone https://github.com/cypress1980/LT_Browser_Automate.git
-
 
 
 
@@ -19,10 +19,11 @@ npm install
 
 
 ### 3. 🛠️ Run Tests Locally
-Step 1: cd browser-automation-playwright
-Step 2:  Navigate to the tests folder cd tests`
-Step 3: Open the testcase folder: cd testcase`
-Step 4: Finally, run the command: node lambdatestPlaywright.js
+cd browser-automation-playwright          # Navigate to project folder
+cd tests                                  # Go to the tests folder
+cd testcase                               # Open the testcase folder
+node lambdatestPlaywright.js              # Run the test file
+
 
 
 ## 🛠️ Execution  snapshots from LambdaTest dashboard
