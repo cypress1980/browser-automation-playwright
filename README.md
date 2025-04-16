@@ -23,7 +23,6 @@ Step 3: Open the testcase folder: cd testcase`
 Step 4: Finally, run the command: node lambdatestPlaywright.js
 
 
-## 🛠️ Execution  snapshots (from LambdaTest dashboard)
+## 🛠️ Execution  snapshots from LambdaTest dashboard
 
-<img width="1781" alt="LT" src="https://github.com/user-attachments/assets/3fb4bf53-3c49-4ec4-bea5-187f252b16e4" />
-
+<img width="1781" alt="LT" src="https://github.com/user-attachments/assets/d0b6e306-ef8c-44e1-bed9-3215df71d587" />
